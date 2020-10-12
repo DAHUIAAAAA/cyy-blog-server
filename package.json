@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "blog-api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.8.2",
+    "koa-body": "^4.1.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6",
+    "md5-node": "^1.0.1",
+    "mongoose": "^5.7.3",
+    "mongoose-id-autoinc": "^2013.7.14-4",
+    "nodemailer": "^6.4.5",
+    "nodemon": "^1.19.3",
+    "path": "^0.12.7"
+  }
+}
